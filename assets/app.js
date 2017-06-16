@@ -162,7 +162,6 @@ $( document ).ready(function() {
 // MEDIUM API CODE
 
 
-
 	
 
 
